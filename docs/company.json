@@ -1,0 +1,11 @@
+{
+  "id": "13873422",
+  "company": "BRICOSTORE ROMANIA S.A.",
+  "brand": "Brico Depot",
+  "status": "activ",
+  "location": ["Bucuresti"],
+  "website": ["https://bricostore.ro"],
+  "career": ["https://bricostore.ro/cariere"],
+  "scraperFile": "https://github.com/amaliatanase/brico-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://bricostore.ro/cariere"
+}
