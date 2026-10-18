@@ -1,0 +1,67 @@
+{
+  "validatedAt": "2026-10-18T08:24:40.603659+00:00",
+  "source": "ANAF",
+  "brand": "Brico Depot",
+  "anaf": {
+    "cui": 14328360,
+    "name": "BRICOSTORE ROMANIA S.R.L.",
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 6, CALEA GIULESTI (CENTRUL COM. BRICOSTORE), NR.1-3, ET.2",
+    "registrationNumber": "J2001009990408",
+    "phone": "02140444111",
+    "fax": "0214044110",
+    "postalCode": "",
+    "caenCode": "4778",
+    "iban": "",
+    "registrationState": "DIZOLVARE FARA LICHIDARE(FUZIUNE) din data 30.09.2025",
+    "registrationDate": "2001-12-04",
+    "fiscalAuthority": "Direcţia Generală de Administrare a Marilor Contribuabili",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": false,
+    "vatPeriods": [
+      {
+        "start": "2001-12-01",
+        "end": "2025-09-30",
+        "yearStart": "",
+        "message": "Anularea înregistrarii în scopuri de TVA a fost efectuata la cererea persoanei impozabile, potrivit dispozitiilor  din Legea nr.227/2015 privind Codul fiscal, cu modificarile si completarile ulterioare"
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": false,
+    "headquartersAddress": {
+      "street": "Cal. Giuleşti",
+      "number": "1-3",
+      "locality": "Sector 6 Mun. Bucureşti",
+      "county": "MUNICIPIUL BUCUREŞTI",
+      "country": "",
+      "postalCode": ""
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": null,
+  "summary": {
+    "company": "BRICOSTORE ROMANIA S.R.L.",
+    "cif": "14328360",
+    "active": true,
+    "inactiveSince": null,
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 6, CALEA GIULESTI (CENTRUL COM. BRICOSTORE), NR.1-3, ET.2"
+  }
+}

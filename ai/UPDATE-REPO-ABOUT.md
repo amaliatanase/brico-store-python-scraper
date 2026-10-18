@@ -6,7 +6,7 @@ push if these are missing (test_topics.py, test_repo.py "GitHub Pages URL
 set in About").
 
 ## Description
-Scraper automat pentru locurile de muncă BRICOSTORE ROMANIA S.A. (CIF: 13873422) — extrage de pe https://bricostore.ro/cariere, validează via ANAF și publică pe peviitor.ro
+Scraper automat pentru locurile de muncă BRICOSTORE ROMANIA S.A. (CIF: 14328360) — extrage de pe https://bricostore.ro/cariere, validează via ANAF și publică pe peviitor.ro
 
 ## Topics (exactly 2, per TOPICS.md)
 - job-seeker-ro-spider

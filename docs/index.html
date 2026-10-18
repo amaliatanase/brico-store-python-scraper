@@ -335,12 +335,12 @@ a:focus-visible, button:focus-visible, .action:focus-visible, .test-card:focus-v
 <script>
 // Loaded from docs/company.json (regenerated on every scrape)
 let COMPANY = "BRICOSTORE ROMANIA S.A.";
-let COMPANY_CIF = "13873422";
+let COMPANY_CIF = "14328360";
 // The peviitor API keys jobs by CIF, and the same CIF also carries jobs
 // published by other scrapers (eJobs / BestJobs imports). This page shows only
 // the jobs THIS scraper manages — the ones on the company's own careers site —
 // so the count matches the company site exactly.
-let OWN_PREFIX = "https://bricostore.ro/cariere";
+let OWN_PREFIX = "https://lcdn.bricostore.ro/render/cariere";
 
 // Jobs are stored with a zero-padded 8-digit CIF (Peviitor API requirement),
 // while company.json keeps the real CIF. Compare with leading zeros stripped.

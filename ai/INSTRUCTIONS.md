@@ -2,7 +2,7 @@
 
 ## Project Purpose
 
-This scraper extracts job listings for **BRICOSTORE ROMANIA S.A.** (CIF: 13873422) from
+This scraper extracts job listings for **BRICOSTORE ROMANIA S.A.** (CIF: 14328360) from
 the company's own careers site, validates the company via ANAF, and imports
 the jobs to peviitor.ro.
 
