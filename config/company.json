@@ -6,5 +6,5 @@
   "location": ["Bucuresti"],
   "website": ["https://bricostore.ro"],
   "career": ["https://bricostore.ro/cariere"],
-  "scraperFile": "https://github.com/amaliatanase/brico-scraper/actions/workflows/scrape.yml"
+  "scraperFile": "https://github.com/amaliatanase/brico-store-python-scraper/actions/workflows/scrape.yml"
 }
