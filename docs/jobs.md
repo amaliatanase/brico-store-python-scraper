@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, CALEA GIULESTI (CENTRUL COM. BRICOSTORE), NR.1-3, ET.2 |
 | Website | [https://bricostore.ro](https://bricostore.ro) |
 | Careers | [https://bricostore.ro/cariere](https://bricostore.ro/cariere) |
-| Last Scraped | 2026-11-12 |
+| Last Scraped | 2026-11-13 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-11-12T14:24:09.060769+00:00_
+_Generated: 2026-11-13T13:43:03.164358+00:00_
 
 ### agent comercial b2b
 
